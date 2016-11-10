@@ -1,2 +1,6 @@
 -Supat Limsamutchaikul (back-end)
--joy
+<<<<<<< HEAD
+-Thanachot Supawasut (back-end)
+=======
+-Asadayut Wongpakdee (front-end) 
+>>>>>>> refs/remotes/supat-lim/master
