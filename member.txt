@@ -1,6 +1,0 @@
--Supat Limsamutchaikul (back-end)
-<<<<<<< HEAD
--Thanachot Supawasut (back-end)
-=======
--Asadayut Wongpakdee (front-end) 
->>>>>>> refs/remotes/supat-lim/master
